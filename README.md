@@ -34,8 +34,10 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 - []()
 - []()
 
-## 📚 Assignments Index
+## 📚 Assignments / Notes Index
 - [cpp-elzero-fundamentals-course-assignments](https://github.com/ahz777/cpp-elzero-fundamentals-course-assignments)
+- [python-elzero-mastering-course](https://github.com/ahz777/python-elzero-mastering-course)
+- [cpp-notes](https://github.com/ahz777/cpp-notes)
 - []()
 - []()
 
