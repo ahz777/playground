@@ -13,12 +13,9 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 - [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
 - [cpp-configurable-data-processing-system](https://github.com/ahz777/cpp-configurable-data-processing-system)
 - []()
-- []()
 
 
 ## JavaScript
-- []()
-- []()
 - []()
  
 
@@ -29,14 +26,11 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 - [react-digital-business-card](https://github.com/ahz777/react-digital-business-card)
 - [react-persona-card-crafter](https://github.com/ahz777/react-persona-card-crafter)
 - []()
-- []()
-- []()
 
 ## 📚 Assignments / Notes Index
 - [cpp-elzero-fundamentals-course-assignments](https://github.com/ahz777/cpp-elzero-fundamentals-course-assignments)
 - [cpp-notes](https://github.com/ahz777/cpp-notes)
 - [python-elzero-mastering-course](https://github.com/ahz777/python-elzero-mastering-course)
-- []()
 - []()
 
 ## 🚀 About This Repo
