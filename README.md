@@ -1,5 +1,5 @@
-# project-hub
-"My personal portfolio repo with links to projects in C++, JavaScript, React, and more."
+# learning-projects-hub
+“Collection of practice projects from my coding journey in C++, JavaScript, React, and beyond.”
 
 ## C++
 - [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
@@ -10,5 +10,8 @@
 - [](link-to-repo)
 
 ## React
-- [](link-to-repo)
-- [](link-to-repo)
+- [react-chef-aya](https://github.com/ahz777/react-chef-aya)
+- [react-color-harmony](https://github.com/ahz777/react-color-harmony)
+- [react-contact-list](https://github.com/ahz777/react-contact-list)
+- [react-digital-business-card](https://github.com/ahz777/react-digital-business-card)
+- [react-essentials](https://github.com/ahz777/react-essentials)
