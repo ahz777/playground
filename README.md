@@ -1,2 +1,2 @@
-# learning-projects
+# playground
 Playground repo for practicing C++, JavaScript, React, and more
