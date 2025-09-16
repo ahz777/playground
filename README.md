@@ -1,4 +1,4 @@
-# learning-projects-hub
+# learning-projects
 “Collection of practice projects from my coding journey in C++, JavaScript, React, and beyond.”
 
 ## C++
