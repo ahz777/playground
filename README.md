@@ -1,6 +1,6 @@
 # learning-projects
 “Collection of practice projects from my coding journey in C++, JavaScript, React, and beyond.”
-This repo is a collection of my learning projects. They are works in progress, meant to reflect my growth and experimentation rather than polished final products.
+- This repo is a collection of my learning projects. They are works in progress, meant to reflect my growth and experimentation rather than polished final products.
 
 ## C++
 - [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
