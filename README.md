@@ -2,7 +2,7 @@
 "My personal portfolio repo with links to projects in C++, JavaScript, React, and more."
 
 ## C++
-- [](link-to-repo)
+- [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
 - [](link-to-repo)
 
 ## JavaScript
