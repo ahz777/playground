@@ -11,7 +11,7 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 
 ## C++
 - [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
-- []()
+- [cpp-configurable-data-processing-system](https://github.com/ahz777/cpp-configurable-data-processing-system)
 - []()
 - []()
 
