@@ -9,11 +9,19 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 
 ## 📚 Project Index
 
+## React
+- [react-quiz-app](https://github.com/ahz777/react-quiz-app)
+- [react-chef-aya](https://github.com/ahz777/react-chef-aya)
+- [react-color-harmony](https://github.com/ahz777/react-color-harmony)
+- [react-contact-list](https://github.com/ahz777/react-contact-list)
+- [react-digital-business-card](https://github.com/ahz777/react-digital-business-card)
+- [react-persona-card-crafter](https://github.com/ahz777/react-persona-card-crafter)
+- []()
+
 ## C++
 - [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
 - [cpp-configurable-data-processing-system](https://github.com/ahz777/cpp-configurable-data-processing-system)
 - []()
-
 
 ## JavaScript
 - [js-shopping-cart](https://github.com/ahz777/js-shopping-cart)
@@ -23,15 +31,6 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 - [js-stopwatch](https://github.com/ahz777/js-stopwatch)
 - []()
  
-
-## React
-- []()
-- [react-chef-aya](https://github.com/ahz777/react-chef-aya)
-- [react-color-harmony](https://github.com/ahz777/react-color-harmony)
-- [react-contact-list](https://github.com/ahz777/react-contact-list)
-- [react-digital-business-card](https://github.com/ahz777/react-digital-business-card)
-- [react-persona-card-crafter](https://github.com/ahz777/react-persona-card-crafter)
-- []()
 
 ## 📚 Assignments / Notes Index
 - [cpp-elzero-fundamentals-course-assignments](https://github.com/ahz777/cpp-elzero-fundamentals-course-assignments)
