@@ -18,17 +18,17 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 - [react-persona-card-crafter](https://github.com/ahz777/react-persona-card-crafter)
 - []()
 
-## C++
-- [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
-- [cpp-configurable-data-processing-system](https://github.com/ahz777/cpp-configurable-data-processing-system)
-- []()
-
 ## JavaScript
 - [js-shopping-cart](https://github.com/ahz777/js-shopping-cart)
 - [js-card-war](https://github.com/ahz777/js-card-war)
 - [js-blog-space](https://github.com/ahz777/js-blog-space)
 - [js-bored-bot](https://github.com/ahz777/js-bored-bot)
 - [js-stopwatch](https://github.com/ahz777/js-stopwatch)
+- []()
+
+## C++
+- [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
+- [cpp-configurable-data-processing-system](https://github.com/ahz777/cpp-configurable-data-processing-system)
 - []()
  
 
