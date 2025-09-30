@@ -10,6 +10,7 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 ## 📚 Project Index
 
 ## React
+- [react-todo-app](https://github.com/ahz777/react-todo-app)
 - [react-quiz-app](https://github.com/ahz777/react-quiz-app)
 - [react-color-harmony](https://github.com/ahz777/react-color-harmony)
 - [react-form](https://github.com/ahz777/react-form)
