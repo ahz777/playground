@@ -10,7 +10,7 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 ## 📚 Project Index
 
 ## React
-- [react-todo-app](https://github.com/ahz777/react-todo-app)
+- [react-todo-app](https://github.com/ahz777/react-todo-app) <br>
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 - [react-quiz-app](https://github.com/ahz777/react-quiz-app)
