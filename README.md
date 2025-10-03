@@ -10,28 +10,18 @@ They are works in progress, meant to reflect my growth and experimentation rathe
 ## 📚 Project Index
 
 ## React
-- [react-todo-app](https://github.com/ahz777/react-todo-app) [React, Bootstrap & Router]
-- [react-quiz-app](https://github.com/ahz777/react-quiz-app)
-- [react-color-harmony](https://github.com/ahz777/react-color-harmony)
-- [react-form](https://github.com/ahz777/react-form)
-- [react-contact-list](https://github.com/ahz777/react-contact-list)
-- [react-essentials](https://github.com/ahz777/react-essentials)
-- [react-digital-business-card](https://github.com/ahz777/react-digital-business-card)
-- [react-static-page](https://github.com/ahz777/react-static-page)
-- []()
+- [Portfolio App](https://github.com/ahz777/react-portfolio-app) [React|Redux|Router]
+- [Redux Playground App](https://github.com/ahz777/react-redux-playground-app) [React|Redux|Router|Bootstrap]
+- [Todo App](https://github.com/ahz777/react-todo-app) [React|Router|Bootstrap]
+- [Quiz App](https://github.com/ahz777/react-quiz-app) [React]
 
 ## JavaScript
 - [js-card-war](https://github.com/ahz777/js-card-war)
 - [js-shopping-cart](https://github.com/ahz777/js-shopping-cart)
-- [js-blog-space](https://github.com/ahz777/js-blog-space)
-- [js-bored-bot](https://github.com/ahz777/js-bored-bot)
-- [js-stopwatch](https://github.com/ahz777/js-stopwatch)
-- []()
 
 ## C++
 - [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
 - [cpp-configurable-data-processing-system](https://github.com/ahz777/cpp-configurable-data-processing-system)
-- []()
 
 ## 🚀 About This Repo
 This hub is not a codebase itself but a **central place to browse through all my projects and course-related tasks**.  
