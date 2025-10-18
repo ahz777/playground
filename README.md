@@ -19,8 +19,8 @@
 - [Shopping Cart](https://github.com/ahz777/js-shopping-cart) [Vanilla JS]
 
 ## C++
-- [cpp-sudoku-game](https://github.com/ahz777/cpp-sudoku-game)
-- [cpp-configurable-data-processing-system](https://github.com/ahz777/cpp-configurable-data-processing-system)
+- [Sudoku Game](https://github.com/ahz777/cpp-sudoku-game)
+- [Configurable Data Processing System](https://github.com/ahz777/cpp-configurable-data-processing-system)
 
 ---
 
