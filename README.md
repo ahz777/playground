@@ -3,8 +3,8 @@
 **A hub for my web apps, C++ projects and more — all in one place.**
 
 ## 🛠️ Tech Stack Across Projects
-- **Languages:** C++, JavaScript, Python.
-- **Frameworks:** React.js, Node.js, Express.js  
+- **Languages:** C++, JavaScript.
+- **Frameworks:** React.js, Node.js, Express.js.
 
 ---
 
