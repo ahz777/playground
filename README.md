@@ -15,8 +15,8 @@
 - [Redux Playground App](https://github.com/ahz777/react-redux-playground-app) [ React | Redux | Router | Bootstrap ]
 - [Todo App](https://github.com/ahz777/react-todo-app) [ React | Router | Bootstrap ]
 - [Quiz App](https://github.com/ahz777/react-quiz-app) [ React ]
-- [Card War](https://github.com/ahz777/js-card-war) [Vanilla JS]
-- [Shopping Cart](https://github.com/ahz777/js-shopping-cart) [Vanilla JS]
+- [Card War](https://github.com/ahz777/js-card-war) [ Vanilla JS ]
+- [Shopping Cart](https://github.com/ahz777/js-shopping-cart) [ Vanilla JS ]
 
 ## C++
 - [Sudoku Game](https://github.com/ahz777/cpp-sudoku-game)
