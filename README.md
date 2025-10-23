@@ -10,10 +10,11 @@
 
 ## 📚 Project Index
 
-## Frontend Apps
-- [Portfolio App](https://github.com/ahz777/react-portfolio-app) [ React | Redux | Router ]
-- [Redux Playground App](https://github.com/ahz777/react-redux-playground-app) [ React | Redux | Router | Bootstrap ]
-- [Todo App](https://github.com/ahz777/react-todo-app) [ React | Router | Bootstrap ]
+## Web Application
+- [Travel Journal App](https://github.com/ahz777/atlasphere) [ React | Node | Express | mongoDB ]
+- [Portfolio App](https://github.com/ahz777/react-portfolio-app) [ React | Redux ]
+- [Redux Playground App](https://github.com/ahz777/react-redux-playground-app) [ React | Redux | Bootstrap ]
+- [Todo App](https://github.com/ahz777/react-todo-app) [ React | Bootstrap ]
 - [Quiz App](https://github.com/ahz777/react-quiz-app) [ React ]
 - [Card War](https://github.com/ahz777/js-card-war) [ Vanilla JS ]
 - [Shopping Cart](https://github.com/ahz777/js-shopping-cart) [ Vanilla JS ]
